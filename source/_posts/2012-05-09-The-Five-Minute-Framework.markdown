@@ -1,0 +1,12 @@
+---
+layout: post
+title: "The Five-Minute Framework"
+date: 2012-05-09 02:57
+comments: true
+published: true
+categories: 
+---
+Here are slides from an upcoming talk at Hacker Dojo's lightning talks:
+
+<a href="http://portal.sliderocket.com/AIMWD/Five-Minute-Framework">The Five Minute Framework (Slides)</a>
+

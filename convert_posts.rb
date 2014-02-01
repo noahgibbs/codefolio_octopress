@@ -13,7 +13,7 @@ puts "Deleting old posts... Don't worry if you see a 'No such file or directory'
 
 posts.each do |post|
   tags = taggings.select { |t| t["post_id"] == post["id"] }
-  categories = tags.map { |t| t["tag"] }.join ","
+  categories = tags.map { |t| t["tag"] }.select {|t| t != "," }.join ","
   categories = "[#{categories}]" unless categories == ""
 
   post_date = Time.parse post["created_at"]
@@ -25,6 +25,7 @@ layout: post
 title: #{post["title"].inspect}
 date: #{post_date.strftime("%Y-%m-%d %H:%M")}
 comments: true
+published: #{post["published"] ? "true" : "false"}
 categories: #{categories}
 ---
 #{post["body"]}
