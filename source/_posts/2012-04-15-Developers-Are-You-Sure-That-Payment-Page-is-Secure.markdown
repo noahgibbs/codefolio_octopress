@@ -56,7 +56,7 @@ You can "Inspect element" to find it in most browsers.  Then in the page source,
 
 On rebuilding-rails.com, for instance, you should look for "submit_payment" in the page source.
 
-![Example Payment Form](payment_form.png "Payment Form")
+<img src="/images/2/payment_form.png" alt="Example Payment Form"> </img>
 
 ### Names Have Power
 
@@ -76,7 +76,7 @@ What else does the page do with your information?  You found the class of the in
 
 On rebuilding-rails.com, the code looks like this:
 
-![JS code:  Secure Info Becomes a Token](credit_card_js.png "Credit Card Info Turns Into a Token")
+<img src="/images/2/credit_card_js.png" alt="Credit card info turns into a token"> </img>
 
 You can see that rebuilding-rails.com does some kind of "local validity checks" -- that's exactly the kind of thing to check, and we will later.
 
@@ -94,5 +94,4 @@ In the end, none of this replaces checking your credit card statements.  But it'
 
 If it's wrong, don't risk it!
 
-<span class="bottom-disclaimer">Are you the kind of Do-It-Yourself Programmer that wants to be able to audit page source yourself?  Or write your own framework?  <a href="https://rebuilding-rails.com">My book, Rebuilding-Rails, can help you build your own web framework</a>.  Nobody audits the code as well as the guy who can build it from scratch!</span>
-
+<span class="bottom-disclaimer">Are you the kind of Do-It-Yourself Programmer that wants to be able to audit page source yourself?  Or write your own framework?  <a href="https://rebuilding-rails.com">My book, Rebuilding-Rails, can help you build your own web framework</a>.  Nobody audits the code as well as the guy who can build it from scratch.</span>
