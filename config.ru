@@ -75,6 +75,10 @@ class SinatraStaticServer < Sinatra::Base
     end
   end
 
+  get "/posts.atom" do
+    send_sinatra_file "/atom.xml"
+  end
+
   get(/.+/) do
     send_sinatra_file(request.path) {404}
   end
