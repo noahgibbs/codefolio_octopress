@@ -5,6 +5,8 @@ date: 2013-03-24 23:33
 comments: true
 published: true
 categories: [ruby,rails]
+meta:
+  disqus_id: "http://codefol.io/posts/38-Free-and-Cheap-Rails-Training"
 ---
 On a local meetup list, somebody asked about cheap ways to learn Ruby on Rails stuff at a university's level of quality.
 

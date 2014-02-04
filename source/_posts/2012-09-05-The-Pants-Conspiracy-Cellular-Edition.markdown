@@ -5,6 +5,8 @@ date: 2012-09-05 00:49
 comments: true
 published: true
 categories: 
+meta:
+  disqus_id: "http://codefol.io/posts/28-The-Pants-Conspiracy-Cellular-Edition"
 ---
 Society pressures you constantly to wear pants.  You know it's true.
 

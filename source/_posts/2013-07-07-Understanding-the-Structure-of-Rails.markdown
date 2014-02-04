@@ -5,6 +5,8 @@ date: 2013-07-07 23:29
 comments: true
 published: true
 categories: [ruby,rails,class]
+meta:
+  disqus_id: "http://codefol.io/posts/46-Understanding-the-Structure-of-Rails"
 ---
 Ruby on Rails is divided into several separate pieces.  If you know what they are and what they do, you can use them individually.  You can also look up documentation more easily, and you'll know where to look for source code to a particular method, and which of several similarly-named methods does what you want.
 

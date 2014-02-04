@@ -5,6 +5,8 @@ date: 2012-12-31 05:35
 comments: true
 published: false
 categories: [rails,rack,sinatra,ruby,api]
+meta:
+  disqus_id: "http://codefol.io/posts/33-Use-Rails-Until-It-Hurts-But-Not-for-APIs"
 ---
 Evan Light recently used the wonderful phrase <a href="http://evan.tiggerpalace.com/articles/2012/11/21/use-rails-until-it-hurts/">”Use Rails Until It Hurts”</a>.  He meant that Rails has built-in mechanisms for organizing your code and objects, and they usually result in simpler, cleaner code that mixing Rails with non-Rails.
 

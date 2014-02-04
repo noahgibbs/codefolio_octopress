@@ -5,6 +5,8 @@ date: 2012-07-27 20:45
 comments: true
 published: true
 categories: 
+meta:
+  disqus_id: "http://codefol.io/posts/17-MiniTest-3-3-breaks-some-things-"
 ---
 MiniTest 3.3.0 seems broken in some (fairly simple-looking) cases that 3.2.0 didn't break.  The presenting error is below.
 

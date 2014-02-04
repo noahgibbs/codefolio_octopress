@@ -5,6 +5,8 @@ date: 2012-07-18 03:48
 comments: true
 published: true
 categories: [unsolvable,unsolveable,ruby,problem,map,subclass]
+meta:
+  disqus_id: "http://codefol.io/posts/13-Unsolvable-Ruby-Problems-Array-map-on-an-Array-subclass-but-keep-the-subclass-"
 ---
 I love looking at problems with "no solution" in languages to stretch my mind.  Here's a fun one from Ruby.
 

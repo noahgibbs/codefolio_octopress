@@ -5,6 +5,8 @@ date: 2013-06-22 20:40
 comments: true
 published: true
 categories: [philosophy,improvement]
+meta:
+  disqus_id: "http://codefol.io/posts/41-Bodybuilder-Bodhisattva"
 ---
 There are a lot of skills that you just have to learn by doing.  I call them "bodybuilder skills."  You can't get around the practice by being smart, even if they seem to be skills of mind.
 

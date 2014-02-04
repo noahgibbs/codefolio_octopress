@@ -5,6 +5,8 @@ date: 2012-08-20 16:07
 comments: true
 published: true
 categories: [30x500,business,product]
+meta:
+  disqus_id: "http://codefol.io/posts/25-3-x5-why-"
 ---
 I took <a href="http://unicornfree.com">Amy Hoy</a>'s <a href="http://unicornfree.com/30x500/">30x500</a> class awhile back.  A buyer of my book asked whether I thought it was worth it.  Here's what I wrote back:
 

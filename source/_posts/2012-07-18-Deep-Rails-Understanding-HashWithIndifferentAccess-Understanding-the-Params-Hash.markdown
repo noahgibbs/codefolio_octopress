@@ -5,6 +5,8 @@ date: 2012-07-18 03:22
 comments: true
 published: true
 categories: [rails,params,hashwithindifferentaccess,ruby]
+meta:
+  disqus_id: "http://codefol.io/posts/11-Deep-Rails-Understanding-HashWithIndifferentAccess-Understanding-the-Params-Hash"
 ---
 Rails <a href="http://codefol.io/posts/9-How-Does-Rack-Parse-Query-Params-With-parse-nested-query">parameter parsing</a> can be hard to understand, but it goes beyond that.
 

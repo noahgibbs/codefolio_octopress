@@ -5,6 +5,8 @@ date: 2012-05-21 15:29
 comments: true
 published: true
 categories: 
+meta:
+  disqus_id: "http://codefol.io/posts/7-The-Grace-of-the-Snail"
 ---
 <i>I want to feel like a stupid, incompetent, worthless person still gets to look at something nice because I have the physical ability to create it.</i>
 

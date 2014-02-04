@@ -5,6 +5,8 @@ date: 2013-08-31 23:37
 comments: true
 published: true
 categories: [ruby,rails,github,learn,rebuilding,class]
+meta:
+  disqus_id: "http://codefol.io/posts/51-Digging-Into-the-Rails-Source"
 ---
 You’ve made it mostway through your free Ruby on Rails Internals class.  Today we’ll be poking around the Rails source code.  If you have money but not time, Rebuilding Rails lets you find a lot quickly…  But in case you have more time, we’ll see where in the Rails source you can learn the same things for yourself.
 

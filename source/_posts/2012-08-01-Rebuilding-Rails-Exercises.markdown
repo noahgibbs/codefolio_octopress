@@ -5,6 +5,8 @@ date: 2012-08-01 16:15
 comments: true
 published: true
 categories: [rebuilding,rails,rebuilding-rails,exercises]
+meta:
+  disqus_id: "http://codefol.io/posts/21-Rebuilding-Rails-Exercises"
 ---
 [Update: Rebuilding Rails is finished, and yes, the exercises are in it.]
 

@@ -5,6 +5,8 @@ date: 2012-07-22 23:37
 comments: true
 published: true
 categories: [ruby,rails,rack,primer]
+meta:
+  disqus_id: "http://codefol.io/posts/14--What-is-Rack-A-Primer"
 ---
 Maybe an engineer you respect just told you to go learn about Rack -- you won't get better at Ruby web stuff until you know what's underneath.
 

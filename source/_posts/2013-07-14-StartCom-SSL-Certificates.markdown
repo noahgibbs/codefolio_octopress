@@ -5,6 +5,8 @@ date: 2013-07-14 17:18
 comments: true
 published: true
 categories: [startcom,ssl,free,certificate,non-commercial]
+meta:
+  disqus_id: "http://codefol.io/posts/49-StartCom-SSL-Certificates"
 ---
 I need to be careful how I recommend StartCom SSL certificates from now on.
 

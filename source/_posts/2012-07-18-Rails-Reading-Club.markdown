@@ -5,6 +5,8 @@ date: 2012-07-18 03:26
 comments: true
 published: true
 categories: 
+meta:
+  disqus_id: "http://codefol.io/posts/12-Rails-Reading-Club"
 ---
 Some day I would love to put together a Rails Reading Club.  Like a book club, but for the Rails source.
 

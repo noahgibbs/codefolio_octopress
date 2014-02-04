@@ -5,6 +5,8 @@ date: 2012-07-31 01:08
 comments: true
 published: true
 categories: 
+meta:
+  disqus_id: "http://codefol.io/posts/18-Bring-Your-Skills-Up-A-Standard-Deviation"
 ---
 Most people don't know anything about a given skill.  But it's not as simple as "I know" or "I don't know".  Skill is in categories -- beginner, novice, intermediate, master or whatever.
 

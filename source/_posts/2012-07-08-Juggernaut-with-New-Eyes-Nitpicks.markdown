@@ -5,6 +5,8 @@ date: 2012-07-08 16:06
 comments: true
 published: true
 categories: 
+meta:
+  disqus_id: "http://codefol.io/posts/10-Juggernaut-with-New-Eyes-Nitpicks-"
 ---
 I'm picking up <a href="http://github.com/maccman/juggernaut">Juggernaut</a> after a long hiatus and seeing it with new eyes, which is fun.
 

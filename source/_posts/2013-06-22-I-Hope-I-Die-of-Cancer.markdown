@@ -5,6 +5,8 @@ date: 2013-06-22 20:44
 comments: true
 published: true
 categories: [philosophy,improvement]
+meta:
+  disqus_id: "http://codefol.io/posts/42-I-Hope-I-Die-of-Cancer"
 ---
 Or at least, when I die I hope it's something they see a few months or years in advance.  The doctors should give me, say, six months to live.
 

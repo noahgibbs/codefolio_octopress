@@ -5,6 +5,8 @@ date: 2012-08-11 15:58
 comments: true
 published: true
 categories: 
+meta:
+  disqus_id: "http://codefol.io/posts/24-Redesign-Rebuilding-Rails-com"
 ---
 Have you guys seen <a href="http://bootswatch.com/">BootSwatch</a>?  It's awesome.
 

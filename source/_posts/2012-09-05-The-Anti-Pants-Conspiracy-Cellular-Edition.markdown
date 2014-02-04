@@ -5,6 +5,8 @@ date: 2012-09-05 00:43
 comments: true
 published: true
 categories: 
+meta:
+  disqus_id: "http://codefol.io/posts/27-The-Anti-Pants-Conspiracy-Cellular-Edition"
 ---
 Ever notice how most cellular phones don't want to go in my pants?
 

@@ -5,6 +5,8 @@ date: 2012-06-21 21:11
 comments: true
 published: true
 categories: 
+meta:
+  disqus_id: "http://codefol.io/posts/8-VonChurch-Recruiters-are-Really-Obnoxious"
 ---
 *[Update: while this reflects events as they occurred, vonChurch has reached out to me several times to try and rectify this.  I'm off their list these days, and I haven't heard from their recruiters in awhile.  So at the moment, they're doing fine by me.  I presume they'd also take you off their lists at your request.]*
 

@@ -5,6 +5,8 @@ date: 2013-07-08 00:47
 comments: true
 published: true
 categories: [ruby,rails,class,rebuilding]
+meta:
+  disqus_id: "http://codefol.io/posts/47-Class-Index"
 ---
 Here's an index of the articles making up the <a href="http://eepurl.com/CWXED">free class about Ruby on Rails Internals</a>.
 

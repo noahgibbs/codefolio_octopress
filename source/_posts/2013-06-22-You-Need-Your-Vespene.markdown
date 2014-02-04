@@ -5,6 +5,8 @@ date: 2013-06-22 21:18
 comments: true
 published: true
 categories: [philosophy,improvement]
+meta:
+  disqus_id: "http://codefol.io/posts/45-You-Need-Your-Vespene"
 ---
 I often think of stuff in my life as like a game of Warcraft (or Starcraft, or...).  That may be all you need to know about me ;-)
 

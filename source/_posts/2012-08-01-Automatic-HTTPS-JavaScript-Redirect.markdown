@@ -5,6 +5,8 @@ date: 2012-08-01 03:40
 comments: true
 published: true
 categories: [javascript,https,redirect]
+meta:
+  disqus_id: "http://codefol.io/posts/20-Automatic-HTTPS-JavaScript-Redirect"
 ---
 Awkwardly, I just emailed out links to <a href="https://rebuilding-rails.com/payment_page.html">pay for Rebuilding Rails</a> with "http://" in front.  Like, not "https://".
 

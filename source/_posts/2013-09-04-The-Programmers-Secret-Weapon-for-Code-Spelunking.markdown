@@ -5,6 +5,8 @@ date: 2013-09-04 02:47
 comments: true
 published: true
 categories: [ruby,rails,rebuilding,class,ack,grep,ag,the_silver_searcher]
+meta:
+  disqus_id: "http://codefol.io/posts/52-The-Programmer-s-Secret-Weapon-for-Code-Spelunking"
 ---
 A lot of the time, it’s hard to find where Ruby has defined something.  When you want to know, “what code did that?”, some languages have debugger watchpoints, Java has Eclipse, Ruby has…?  What?
 
