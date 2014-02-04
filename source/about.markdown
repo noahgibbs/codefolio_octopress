@@ -24,7 +24,7 @@ write games with Scratch</a>.
 I'm a professional Rails-and-Ruby-and-Big-Data-and-stuff developer.
 
 I've written <a href="http://github.com/noahgibbs/">a lot of random
-little Ruby libraries<a>.  You can also find some of my open-source
+little Ruby libraries</a>.  You can also find some of my open-source
 contributions at <a href="http://github.com/ooyala">previous and</a>
 <a href="http://github.com/onlive">current employers</a>.
 
