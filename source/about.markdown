@@ -15,6 +15,8 @@ like Rails.
 I've spoken at a <a href="http://gogaruco.com">few</a>
 <a href="http://www.datastax.com/company/news-and-events/events/cassandrasummit2012/presentations">conferences</a> and a lot of meetups.
 
+{% img /images/Codefolio_face_486.png 243 230 "Me, kind of." "A crude ballpoint-on-paper drawing of the blog author's face." %}
+
 I'm a dad.  It's amazing.  <a
 href="http://scratch.mit.edu/users/shannasdad/">My little girls and I
 write games with Scratch</a>.
@@ -28,3 +30,5 @@ contributions at <a href="http://github.com/ooyala">previous and</a>
 
 I started coding at eight years old, and I'm a lot older than that
 now.  I've never had a real non-programming job.
+
+{% img /images/Codefolio_text_400.png 400 187 "Codefol.io" "The Codefol.io logo as a paper cutout." %}
