@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: [metaobject,protocol,mop,metaclass,ruby]
 meta:
-  disqus_id: "http://codefol.io/posts/57-Does-Ruby-Have-a-Metaobject-Protocol-"
+  disqus_id: "http://codefol.io/posts/57"
 ---
 There's a semi-famous book, <a href="http://en.wikipedia.org/wiki/The_Art_of_the_Metaobject_Protocol">The Art of the Metaobject Protocol</a> by Kiczales, des Rivieres and Bobrow.  Alan Kay, the guy who invented SmallTalk and the phrase "Object Oriented", called it the best book in ten years.
 

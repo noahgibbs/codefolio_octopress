@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: [ruby,metaprogramming,hooks]
 meta:
-  disqus_id: "http://codefol.io/posts/58-What-Hooks-does-Ruby-have-for-Metaprogramming-"
+  disqus_id: "http://codefol.io/posts/58"
 ---
 Ruby lets you hook in and see (and change!) a lot of behavior of the core language.  Methods, constants, classes, variables...  Ruby lets you query them all, and change a lot about them.
 

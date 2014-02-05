@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: [ruby,rails,enterprise]
 meta:
-  disqus_id: "http://codefol.io/posts/56-Why-Ruby-Should-Stay-a-Laughing-Stock"
+  disqus_id: "http://codefol.io/posts/56"
 ---
 Five minutes on the Internet will find you <i>somebody</i> who thinks <b>Ruby shouldn't exist and is clearly inferior</b> (try it!).  Or pick a big tech company, especially an "Enterprise" company.  Same thing -- <b>you'll find a Ruby-hater in five minutes</b> if you're actually trying.
 
