@@ -32,7 +32,7 @@ comments: true
 published: #{post["published"] ? "true" : "false"}
 categories: #{categories}
 meta:
-  disqus_id: "http://codefol.io/posts/#{post["id"]}-#{codefolio_url_words}"
+  disqus_id: "http://codefol.io/posts/#{post["id"]}"
 ---
 #{post["body"]}
   CONTENTS
