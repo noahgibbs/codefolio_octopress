@@ -83,7 +83,7 @@ googleplus_hidden: false
 
 # Disqus Comments
 disqus_short_name: angelbobsblog
-disqus_show_comment_count: false
+disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id: UA-30520713-1
