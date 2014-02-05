@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: [ruby,rack,rails,param,query_param,parse_nested_query,parse_query_params]
 meta:
-  disqus_id: "http://codefol.io/posts/9-How-Does-Rack-Parse-Query-Params-With-parse-nested-query"
+  disqus_id: "http://codefol.io/posts/9"
 ---
 What turns URL params like "http://site.com/people?name=bobo" into { :name => "bobo" } in Ruby?
 

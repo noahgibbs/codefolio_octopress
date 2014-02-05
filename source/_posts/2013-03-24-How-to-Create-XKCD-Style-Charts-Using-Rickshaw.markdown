@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: 
 meta:
-  disqus_id: "http://codefol.io/posts/37-How-to-Create-XKCD-Style-Charts-Using-Rickshaw"
+  disqus_id: "http://codefol.io/posts/37"
 ---
 I recently wrote a <a href="http://engineering.ooyala.com/blog/how-create-xkcd-style-charts-using-javascript-and-d3">post on the Ooyala engineering blog</a> about how to create an XKCD-style <a href="http://code.shutterstock.com/rickshaw/">Rickshaw</a> renderer with the wobbly lines.
 

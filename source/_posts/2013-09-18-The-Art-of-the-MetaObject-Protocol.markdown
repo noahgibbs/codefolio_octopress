@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: [ruby,metaobject,protocol]
 meta:
-  disqus_id: "http://codefol.io/posts/53-The-Art-of-the-MetaObject-Protocol"
+  disqus_id: "http://codefol.io/posts/53"
 ---
 I'm reading a fine classic of programming, <a href="http://www.amazon.com/The-Metaobject-Protocol-Gregor-Kiczales/dp/0262610744">The Art of the MetaObject Protocol</a>.
 

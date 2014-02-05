@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: [product,business,revenue]
 meta:
-  disqus_id: "http://codefol.io/posts/22-My-First-Thousand-in-Product-Revenue-Story-and-Numbers"
+  disqus_id: "http://codefol.io/posts/22"
 ---
 <i>Want just the graphs and not a whole freaking biography?  Scroll down to the bottom.</i>
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: 
 meta:
-  disqus_id: "http://codefol.io/posts/5-The-Five-Minute-Framework"
+  disqus_id: "http://codefol.io/posts/5"
 ---
 Here are slides from an upcoming talk at Hacker Dojo's lightning talks:
 

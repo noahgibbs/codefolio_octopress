@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: [clean,ruby,code]
 meta:
-  disqus_id: "http://codefol.io/posts/31-Clean-Ruby-Code"
+  disqus_id: "http://codefol.io/posts/31"
 ---
 A reader asked me for quick recommendations on writing clean code.  Here's what I wrote back:
 

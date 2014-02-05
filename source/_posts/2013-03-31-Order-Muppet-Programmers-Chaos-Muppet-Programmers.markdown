@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: [ruby,java,muppets]
 meta:
-  disqus_id: "http://codefol.io/posts/39-Order-Muppet-Programmers-Chaos-Muppet-Programmers"
+  disqus_id: "http://codefol.io/posts/39"
 ---
 Have you <a href="http://www.slate.com/articles/life/low_concept/2012/06/what_kind_of_muppet_are_you_chaos_or_order_.html">read the Slate magazine article about whether you're an Order Muppet or a Chaos Muppet</a>?
 

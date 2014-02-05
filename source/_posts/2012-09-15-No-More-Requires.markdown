@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: [ruby,rails,require,autoload]
 meta:
-  disqus_id: "http://codefol.io/posts/32-No-More-Requires"
+  disqus_id: "http://codefol.io/posts/32"
 ---
 I hate all the “requires” at the front of Ruby files.  I *know* what methods I'm using, but I have to write it in both places.  Not exactly <a href="http://en.wikipedia.org/wiki/Don't_repeat_yourself">DRY</a>.  Rails skips them &mdash; you just use the classes you want.  How can I automatically load my files like Rails does?  Read on.
 

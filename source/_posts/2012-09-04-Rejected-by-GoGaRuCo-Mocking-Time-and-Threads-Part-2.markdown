@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: [GoGaRuCo,rails,mock,mocha,time,threads]
 meta:
-  disqus_id: "http://codefol.io/posts/26-Rejected-by-GoGaRuCo-Mocking-Time-and-Threads-Part-2"
+  disqus_id: "http://codefol.io/posts/26"
 ---
 This idea was <a href="http://codefol.io/posts/23-Rejected-by-GoGaRuCo-Mocking-Time-now-for-Faster-Tests-">rejected by GoGaRuCo (link to part one)</a> as a talk.  So you get to see it on this blog!
 

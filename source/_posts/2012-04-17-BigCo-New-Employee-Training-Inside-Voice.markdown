@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: [new,employee,training,humor]
 meta:
-  disqus_id: "http://codefol.io/posts/3-BigCo-New-Employee-Training-Inside-Voice"
+  disqus_id: "http://codefol.io/posts/3"
 ---
 Hello, new software engineers!  Welcome to the <a href="http://weblog.raganwald.com/2005/07/why-you-need-degree-to-work-for-bigco.html">(slightly) dysfunctional BigCo family</a>.
 

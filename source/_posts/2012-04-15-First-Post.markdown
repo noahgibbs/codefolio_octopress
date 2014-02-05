@@ -6,6 +6,6 @@ comments: true
 published: false
 categories: 
 meta:
-  disqus_id: "http://codefol.io/posts/1-First-Post"
+  disqus_id: "http://codefol.io/posts/1"
 ---
 This is an initial post.  You may ignore it.

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: [rails,ruby]
 meta:
-  disqus_id: "http://codefol.io/posts/36-Building-Ruby-Castles-in-the-Clouds"
+  disqus_id: "http://codefol.io/posts/36"
 ---
 <a href="http://sebastianmarshall.com">Sebastian Marshall</a> interviewed me recently.  I think it came out great!
 

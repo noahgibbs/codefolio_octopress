@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: [learn,rails,start,programming]
 meta:
-  disqus_id: "http://codefol.io/posts/6-Starting-Rails-programming"
+  disqus_id: "http://codefol.io/posts/6"
 ---
 I tutored Rails at CMU West for a bit.  They asked me for recommendations for what the students should be doing to prepare for Rails programming.
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: [ruby,rvm,openssl]
 meta:
-  disqus_id: "http://codefol.io/posts/35-Could-Not-Fetch-Specs-From-https-rubygems-org-"
+  disqus_id: "http://codefol.io/posts/35"
 ---
 Are you getting this error from Bundler?
 

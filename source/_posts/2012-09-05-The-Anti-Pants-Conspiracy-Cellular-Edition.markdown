@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: 
 meta:
-  disqus_id: "http://codefol.io/posts/27-The-Anti-Pants-Conspiracy-Cellular-Edition"
+  disqus_id: "http://codefol.io/posts/27"
 ---
 Ever notice how most cellular phones don't want to go in my pants?
 

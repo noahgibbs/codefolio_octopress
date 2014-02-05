@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: 
 meta:
-  disqus_id: "http://codefol.io/posts/60-Your-Mind-is-a-Motorcycle"
+  disqus_id: "http://codefol.io/posts/60"
 ---
 When I was taking the <a href="http://online2.msf-usa.org/msf/Default.aspx?wvsessionid=6a4ad4b138474bcfa211b2ade223660d#&panel1-1">Motorcycle Safety Foundation</a> class awhile back (it's awesome!) they said something that stuck with me.
 

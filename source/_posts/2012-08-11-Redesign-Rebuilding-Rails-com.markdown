@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: 
 meta:
-  disqus_id: "http://codefol.io/posts/24-Redesign-Rebuilding-Rails-com"
+  disqus_id: "http://codefol.io/posts/24"
 ---
 Have you guys seen <a href="http://bootswatch.com/">BootSwatch</a>?  It's awesome.
 

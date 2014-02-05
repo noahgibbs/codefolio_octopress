@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: [marketing,business,ruby,rails,product]
 meta:
-  disqus_id: "http://codefol.io/posts/30-Five-Kinds-of-Marketing-for-Tiny-Web-Businesses"
+  disqus_id: "http://codefol.io/posts/30"
 ---
 This is a repost of email I sent to my <a href="http://codefol.io/posts/25-3-x5-why-">30x500 classmates</a>.
 

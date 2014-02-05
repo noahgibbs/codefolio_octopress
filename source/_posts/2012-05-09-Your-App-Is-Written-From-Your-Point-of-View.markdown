@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: 
 meta:
-  disqus_id: "http://codefol.io/posts/4-Your-App-Is-Written-From-Your-Point-of-View"
+  disqus_id: "http://codefol.io/posts/4"
 ---
 Programming is writing for a computer.  But more importantly, it is writing for a human.
 

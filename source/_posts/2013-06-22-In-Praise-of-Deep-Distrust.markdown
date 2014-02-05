@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: [philosophy,improvement]
 meta:
-  disqus_id: "http://codefol.io/posts/43-In-Praise-of-Deep-Distrust"
+  disqus_id: "http://codefol.io/posts/43"
 ---
 My wife and I both started out with a searing, bone-deep distrust of our own instincts.  We get along well that way.
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: 
 meta:
-  disqus_id: "http://codefol.io/posts/59-You-and-Britney-Spears-BFFs-"
+  disqus_id: "http://codefol.io/posts/59"
 ---
 Here's the thing:  if you want to meet Britney Spears, odds are good that Britney Spears doesn't want to meet you.
 

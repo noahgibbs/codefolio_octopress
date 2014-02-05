@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: [timing,attacks,patio11]
 meta:
-  disqus_id: "http://codefol.io/posts/19-Timing-Attacks-Are-Really-Tricky"
+  disqus_id: "http://codefol.io/posts/19"
 ---
 <a href="http://kalzumeus.com">Patrick McKenzie</a> mentioned in a <a href="http://news.ycombinator.com/item?id=4280503">Hacker News comment</a> that it's easy to leak database information with a timing attack, and that it's silly to secure that information very much in other ways if you aren't going to block the timing hole.
 

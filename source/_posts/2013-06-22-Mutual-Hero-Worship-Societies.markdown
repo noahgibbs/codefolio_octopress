@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: [philosophy,improvement]
 meta:
-  disqus_id: "http://codefol.io/posts/44-Mutual-Hero-Worship-Societies"
+  disqus_id: "http://codefol.io/posts/44"
 ---
 I went to <a href="http://cmu.edu">a great college</a>, and so I was far from the smartest guy there.  In particular, there were three of us in my freshman class of computer programmers that were smart and hung out constantly.
 

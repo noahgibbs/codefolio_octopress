@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: [ruby,rails,class]
 meta:
-  disqus_id: "http://codefol.io/posts/48-Where-Do-I-Put-My-Code-"
+  disqus_id: "http://codefol.io/posts/48"
 ---
 Sometimes you’re <i>sure</i> that’s not the right place for that piece of code, but where <i>does</i> it go?  "Refactor" is only a good answer if you know how to fix it.
 

@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: [developer,coder,senior,junior]
 meta:
-  disqus_id: "http://codefol.io/posts/16-Developer-not-Coder"
+  disqus_id: "http://codefol.io/posts/16"
 ---
 There's a lot to developing software on a team that universities don't traditionally teach you.  If you're already strong at theory and skills and you know you also need lots of practice, what else should you be doing to prepare?
 

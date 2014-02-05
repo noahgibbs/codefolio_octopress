@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: [apache,nginx,unicorn,passenger,ruby,rails]
 meta:
-  disqus_id: "http://codefol.io/posts/50-Web-Servers-and-Application-Servers"
+  disqus_id: "http://codefol.io/posts/50"
 ---
 A reader recently asked me why Ruby web app deploys usually have a web server (NGinX, Apache) <i>and</i> an application server (Unicorn, Thin, Puma, Racer, Mongrel, Passenger, Jakarta, TorqueBox or whatever I've forgotten this week).
 
