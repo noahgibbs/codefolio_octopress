@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: [hiring,rails,developer,freelance]
 meta:
-  disqus_id: "http://codefol.io/posts/55-On-Hiring-a-Developer"
+  disqus_id: "http://codefol.io/posts/55"
 ---
 I got mail from somebody with a vision for an app, wanting to know how much it would cost to build their idea.
 
