@@ -27,11 +27,12 @@ Here's what I needed to do:
   <tt>cabal install cabal-install</tt> and finally <tt>cabal install
   pandoc</tt>.  Haskell-platform can take 15 minutes to compile.  If
   you need to install a new cabal-install (it'll tell you if you do),
-  that also takes awhile to compile.
+  that also takes awhile to compile.  You can keep going, though -
+  nothing else on this list depends on Pandoc until Quarto itself.
 
-* Install pygments.  For me, that meant first installing pip (<tt>brew
-  install pip</tt>), a Python package manager, then <tt>pip install
-  pygments</tt>.
+* Install pygments.  For me, that meant first installing pip
+  (<tt>easy_install pip</tt>), a Python package manager, then <tt>pip
+  install pygments</tt>.
 
 * Install xmllint (<tt>brew install libxml2</tt>).
 
@@ -44,8 +45,8 @@ Here's what I needed to do:
 * Install fontforge (<tt>brew install fontforge</tt>).
 
 * I didn't need to install Ruby or RubyGems.  If you do -- well, try
-  to make sure you get Ruby 1.9.  This step could be difficult if
-  you're not already a Rubyist :-(
+  to make sure you get Ruby 1.9 or higher.  This step could be difficult if
+  you're not already a Rubyist.  We're working on it :-(
 
 * <tt>gem install quarto</tt>
 
