@@ -1,3 +1,24 @@
 {% comment %}
   Add content to be output at the bottom of each page. (You might use this for analytics scripts, for example)
 {% endcomment %}
+
+<script type="text/javascript">
+$(function() {
+  $('.entry-content').each(function(i){
+    var _i = i;
+    $(this).find('img.lightbox').each(function(){
+      var img = $(this);
+      var title = img.attr("title");
+      img.removeClass("lightbox");
+      var classes = img.attr("class");
+      img.removeAttr("class");
+      console.log("Wrap image!");
+      img.wrap('<a href="'+this.src+'" data-lightbox="' + _i +'" class="' + classes + '" />');
+      if (title != "")
+      {
+        img.parent().attr("title", title);
+      }
+    });
+  });
+});
+</script>
