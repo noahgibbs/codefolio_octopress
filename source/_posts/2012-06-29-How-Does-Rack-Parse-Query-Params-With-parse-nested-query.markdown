@@ -8,9 +8,9 @@ categories: [ruby,rack,rails,param,query_param,parse_nested_query,parse_query_pa
 meta:
   disqus_id: "http://codefol.io/posts/9"
 ---
-What turns URL params like "http://site.com/people?name=bobo" into { :name => "bobo" } in Ruby?
+What turns URL params like <code>http://site.com/people?name=bobo</code> into <code>{ :name => "bobo" }</code> in Ruby?
 
-And what turns extra-weird Rails or Sinatra params like "/path?people[][name]=bobo&people[][first_love]=cheese"?
+And what turns extra-weird Rails or Sinatra params like <code>/path?people[][name]=bobo&people[][first_love]=cheese</code>?
 
 <h2>What the Hell is that?</h2>
 
@@ -38,7 +38,7 @@ def parse_nested_query(qs, d = nil)
 end
 ```
 
-That's just parsing the parameters by splitting on <a href="http://en.wikipedia.org/wiki/Ampersand">ampersand</a> and semicolon.  What about the square braces?  They're handled in <tt>normalize_params</tt> (see below for abridged source, or GitHub for full).  It gets called once for each parameter name.
+That's just parsing the parameters by splitting on <a href="http://en.wikipedia.org/wiki/Ampersand">ampersand</a> and semicolon.  What about the square braces?  They're handled in <code>normalize_params</code> (see below for abridged source, or GitHub for full).  It gets called once for each parameter name.
 
 <h2> What Does normalize_params Do? </h2>
 
@@ -46,15 +46,15 @@ First it checks the param name for anything that's not square-braces, and then r
 
 If the "after" is nothing there are no square braces -- great, assign the parameter, you're done.
 
-If "after" is empty square-braces, that parameter is an array.  Start with it being an empty array, and then append to it.  So if you parsed <tt>p[]=a&amp;p[]=b&amp;p[]=c</tt>, you'd get <tt>{&quot;p&quot; =&gt; [&quot;a&quot;, &quot;b&quot;, &quot;c&quot;] }</tt>.
+If "after" is empty square-braces, that parameter is an array.  Start with it being an empty array, and then append to it.  So if you parsed <code>p[]=a&amp;p[]=b&amp;p[]=c</code>, you'd get <code>{&quot;p&quot; =&gt; [&quot;a&quot;, &quot;b&quot;, &quot;c&quot;] }</code>.
 
 If "after" starts with empty square braces and then has more after it, it's nested.  So the parameter is still an array, and could be something like an array of arrays.  The code handles this by recursing.
 
-So if you parsed <tt>p[][a]=a&amp;p[][b]=b&amp;p[][c]=c</tt>, you'd get <tt> { &quot;p&quot; =&gt; [{ &quot;a&quot; =&gt; &quot;a&quot;, &quot;b&quot; =&gt; &quot;b&quot;, &quot;c&quot; =&gt; &quot;c&quot;]}</tt>.
+So if you parsed <code>p[][a]=a&amp;p[][b]=b&amp;p[][c]=c</code>, you'd get <code> { &quot;p&quot; =&gt; [{ &quot;a&quot; =&gt; &quot;a&quot;, &quot;b&quot; =&gt; &quot;b&quot;, &quot;c&quot; =&gt; &quot;c&quot;]}</code>.
 
 Feeling a little confused?  Scroll down for another approach -- play with it in irb!
 
-~~~ ruby
+``` ruby
 def normalize_params(params, name, v = nil)
   name =~ %r(\A[\[\]]*([^\[\]]+)\]*)
   k = $1 || ''
@@ -83,17 +83,17 @@ def normalize_params(params, name, v = nil)
 
   return params
 end
-~~~
+```
 
 <h2> Using irb </h2>
 
-Since this is Ruby, pop open irb and <tt>require "rack"</tt>.
+Since this is Ruby, pop open irb and <code>require "rack"</code>.
 
 We'll define a convenience function called p() because I hate typing.
 
 Then we'll check to make sure we were right up above:
 
-```
+``` ruby
 Athanor:rulers noah$ irb
 1.9.3p125 :001 > require "rack"
  => true 

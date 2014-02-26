@@ -73,6 +73,9 @@ class SinatraStaticServer < Sinatra::Base
     get(/^\/posts\/#{post_id}-/) do
       redirect to(post_url)
     end
+    get(/^\/posts\/#{post_id}$/) do
+      redirect to(post_url)
+    end
   end
 
   get "/posts.atom" do
