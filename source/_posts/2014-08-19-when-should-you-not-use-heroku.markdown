@@ -30,7 +30,7 @@ free hours per month, and after that it’s expensive. Background
 threads or processes also cost extra.
 
 A single minimum-power dyno runs you
-<a href=“https://www.heroku.com/pricing”>$36 per month</a>, assuming you
+<a href="https://www.heroku.com/pricing">$36 per month</a>, assuming you
 need barely any space in Postgres. Heroku is basically going to
 cost you at least twice what a VPS would cost (e.g. Linode or Digital Ocean)
 and give you much less power. If you process many
@@ -44,7 +44,7 @@ MemCacheD will also cost more if you use them.
 
 Speaking of third-party services, they’re not always available.
 Somebody has to have written a specific
-<a href=“https://addons.heroku.com/“>Heroku plugin</a> for them,
+<a href="https://addons.heroku.com/">Heroku plugin</a> for them,
 and you’d better hope the version available matches your needs.
 
 For off-the-shelf services, that’s no problem. Redis or MemCacheD,
