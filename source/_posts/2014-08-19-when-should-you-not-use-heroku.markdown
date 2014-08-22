@@ -12,14 +12,17 @@ Heroku is wrong for all deployments.
 But it’s also not <b>right</b> for all deployments. Let’s talk about
 when it's wrong and when it's right.
 
+{% img pull-right /images/easy_button.jpg 182 142 "Easy mode!" %}
+
 Heroku’s big advantages are:
 
 * really easy to deploy
 * really easy to scale
 * mostly everything just works
 
-Those are big advantages, and often they outweigh everything else.
-When they do, you should absolutely use Heroku.
+Those are big advantages. Sometimes they're <i>the most important
+thing</i> for your project.
+When they are, you should absolutely use Heroku.
 
 But why might you not?
 
@@ -41,6 +44,8 @@ Third-party services like MySQL (vs Postgres), Cassandra, Redis or
 MemCacheD will also cost more if you use them.
 
 ## Third-Party Services
+
+{% img pull-right /images/heroku_addons.png 268 152 "Heroku Add-Ons" %}
 
 Speaking of third-party services, they’re not always available.
 Somebody has to have written a specific
@@ -72,23 +77,24 @@ Which often you do, and occasionally you don’t.
 Similarly, the Ruby evented support (e.g. EventMachine) isn’t
 amazing. That’s not a problem for you… Unless it is.
 
+{% img /images/event_machine.jpg 300 131 "EventMachine Logo" %}
+
 ## Architecture
 
-The Heroku architecture is great for hosting, and a little weird
-if you’re hosted.
+The Heroku architecture is great if you're building a hosting service, and a
+little weird if you’re being hosted on it.
 
-Basically, your app needs to be prepared to be killed and put onto
-a new server at any time, instantly. That means you can’t write
-to local disk (no log files, no file-based Rails cache), nor
-assume that things like global variables will last from
-request to request.
+Your app needs to be prepared to be killed and put onto a new server at any
+time, instantly. That means you can’t write to local disk (no log files, no
+file-based Rails cache), nor assume that things like global variables will
+last from request to request.
 
 You can do some Heroku-specific logging, but you have to do it
 all in a very specific style.
 
 It also means that a lot of your existing operations knowledge
 doesn’t work. You can’t log into the machine and poke around,
-and you certainly can’t change anything, or have your
+and you certainly can’t modify machine settings or have your
 application save local state or logs.
 
 Is that a problem? Well, sometimes.
@@ -105,7 +111,9 @@ And Heroku’s scaling of dynos — regular, 2x everything
 or huge CPU and RAM for 16x the cost — may not be for
 you. Or it may be fine, depending.
 
-## When Is Heroku the Right Thing?
+{% img /images/huge_cpu.png 252 189 "A Huge CPU" %}
+
+## When Is Heroku the Right Thing? The Short Version
 
 You’ve read (or skimmed or scrolled) through the long
 version.
@@ -116,7 +124,7 @@ The short version is that when you have an installation
 where you don’t need to customize much, and you don’t
 need a lot of servers, Heroku is great.
 
-Or when you want utter simplicity and money’s not much
-of an object, Heroku is awesome. Especially if somebody
+Or when you want utter simplicity and being expensive is fine,
+Heroku is awesome. Especially if somebody
 else pays the server bill!
 
