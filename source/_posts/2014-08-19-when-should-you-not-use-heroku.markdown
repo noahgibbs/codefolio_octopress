@@ -40,6 +40,8 @@ and give you much less power. If you process many
 simultaneous requests or run many background threads, it will be
 at least three or four times as expensive for the same power.
 
+<!-- more -->
+
 Third-party services like MySQL (vs Postgres), Cassandra, Redis or
 MemCacheD will also cost more if you use them.
 
@@ -101,7 +103,9 @@ Is that a problem? Well, sometimes.
 
 ## Et Al
 
-Heroku is also hard to use for non-HTTP services. It’s not
+{% img pull-left /images/huge_cpu.jpg 252 189 "A Huge CPU" %}
+
+Heroku is also hard to use for non-web services that don't use HTTP. It’s not
 really set up for them.
 
 It gets your data, which may or may not be a problem. It’s
@@ -111,9 +115,7 @@ And Heroku’s scaling of dynos — regular, 2x everything
 or huge CPU and RAM for 16x the cost — may not be for
 you. Or it may be fine, depending.
 
-{% img /images/huge_cpu.png 252 189 "A Huge CPU" %}
-
-## When Is Heroku the Right Thing? The Short Version
+## Do I Use Heroku? The Short Version
 
 You’ve read (or skimmed or scrolled) through the long
 version.
@@ -127,4 +129,3 @@ need a lot of servers, Heroku is great.
 Or when you want utter simplicity and being expensive is fine,
 Heroku is awesome. Especially if somebody
 else pays the server bill!
-
