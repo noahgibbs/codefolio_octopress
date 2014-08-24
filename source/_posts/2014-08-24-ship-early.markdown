@@ -28,6 +28,8 @@ In the end, it boils down to this. You're somebody who is reading about
 software when you don't have to. Right here in this post, even! You care about
 your craft.
 
+<!--more-->
+
 True software craft is about <a
 href="http://blog.codinghorror.com/shipping-isnt-enough/" target="_atwood2">making software
 people want to use &mdash; that is worth using (Jeff Atwood again)</a>. To do that,
@@ -92,7 +94,7 @@ working smoothly for you. And from there on, you can just enjoy being
 
 Some people <a
 href="http://unicornfree.com/2010/i-made-216668-from-products" target="_amyhoy">make a career
-and a ton of money from that superpower.</a>
+and a ton of money from that superpower</a> (Amy is a teacher of mine.)
 
 By the way &mdash; I'm looking for customers for a pilot class. Wouldn't
 you love to be in the <b>first</b> batch that I help get their superpowers?
