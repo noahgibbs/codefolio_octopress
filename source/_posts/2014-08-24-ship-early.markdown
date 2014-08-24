@@ -88,7 +88,7 @@ Want to do that in fast-forward and skip straight to having superpowers?
 
 <a href="http://rubymadscience.com">I can help</a>. I can get those things
 working smoothly for you. And from there on, you can just enjoy being
-<b>That Guy or Gal Who Ships Things</a>.
+<b>That Guy or Gal Who Ships Things</b>.
 
 Some people <a
 href="http://unicornfree.com/2010/i-made-216668-from-products" target="_amyhoy">make a career
