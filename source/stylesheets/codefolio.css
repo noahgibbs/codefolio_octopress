@@ -1,0 +1,5 @@
+body article img:not(.no-border) {
+  border-color: #99aaaa;
+  border-width: 0.25em;
+  margin: 15px;
+}
