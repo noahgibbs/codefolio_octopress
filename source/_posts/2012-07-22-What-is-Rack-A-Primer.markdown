@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "\"What is Rack?\":  A Primer"
+title: "What is Rack?: A Primer"
 date: 2012-07-22 23:37
 comments: true
 published: true
