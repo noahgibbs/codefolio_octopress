@@ -20,6 +20,8 @@ Bob was an old-time C programmer. When he built C programs in his spare time, no
 
 Ruby on Rails was awesome and Bob loved it. You could put something on a server and then your friends could use it. How cool is that?
 
+<!--more-->
+
 And it had some fun new features like server-sent events. If you can make a good chat server, <a href="http://noahgibbs.github.io/RailsGame/architecture.html">chances are good you can make a game</a>, too. Bob was trying that out.
 
 And actually, he came up with a kind of cool game. There were some hexes and some things in them. Stuff moved around a little and there was a chat window next to it.
