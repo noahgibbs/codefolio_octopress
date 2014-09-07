@@ -55,7 +55,7 @@ module Jekyll
       tot = 0
       # display per post page view
       site.posts.each { |post|
-        url = (site.config['baseurl'] || '') + post.url + 'index.html'
+        url = (site.config['baseurl'] || '') + post.url #+ 'index.html'
         hits = (results[url])? results[url].to_i : 0
         post.data.merge!("_pv" => hits)
         tot += hits
