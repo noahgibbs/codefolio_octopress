@@ -18,7 +18,7 @@ tradeoff</a>.
 
 Why would you use <a href="http://www.getchef.com">Chef</a> before you had to?
 
-<b>That's a good question. Let's talk about that.</b>
+<b><i>That's a good question. Let's talk about that.</i></b>
 
 ## Chef and Vagrant for Test Servers
 
@@ -26,9 +26,8 @@ If you use Vagrant you can easily put together a test server. Unfortunately,
 if you just type a bunch of commands into your Vagrant server, you're always
 at the mercy of the VM going away.
 
-Or you can use Chef. And then it'll take awhile (about ten minutes for my Chef
-config), but you can always get a clean new VM matching your server pretty
-well.
+Or you can use Chef. And then you can always get a clean new VM matching your
+server pretty well.
 
 With a test server, you can answer questions like, "will this work if I type
 it on the production server?" And you can do it without crashing
@@ -52,7 +51,16 @@ than you can hand-roll a server.
 
 Most people don't put together a staging server -- after all, if you just did
 a bunch of one-off commands, it's a pain, right?  "Most people" are missing
-out on that being easy because, well, no Chef.
+out on that being easy because they're not using Chef.
+
+Why do staging when you can make a Vagrant server, like up above? Mostly to
+get a really exact match for the server config. Most problems show up on a
+test server on Vagrant. A few don't, because they require the exact RAM or CPU
+specs on your production server, not a local lookalike.
+
+For those last few thorny problems, a staging server is nice.
+
+And with Chef, configuring either or both is pretty easy.
 
 ## Chef to Make Changes
 
