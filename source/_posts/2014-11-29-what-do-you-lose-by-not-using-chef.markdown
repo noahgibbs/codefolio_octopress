@@ -16,7 +16,7 @@ are you going to set up a server? Do it manually, then automate when you need
 to, right? <a href="http://xkcd.com/1205/" target="_blank">That's the
 tradeoff</a>.
 
-Why would you use <a href="http://www.getchef.com">Chef</a> before you had to?
+Why would you use <a href="http://www.getchef.com" target="_blank">Chef</a> before you had to?
 
 <b><i>That's a good question. Let's talk about that.</i></b>
 
@@ -71,7 +71,7 @@ it on demand or fix it by hand, but it's kind of nice not to have to.
 
 Better yet, you can ask Chef to do a dry-run. Then you're not making changes,
 you're just asking Chef, "hey, see if anything I said to keep the same is now
-wrong."  It works a bit like <a href="http://www.tripwire.com">Tripwire</a>
+wrong."  It works a bit like <a href="http://www.tripwire.com" target="_blank">Tripwire</a>
 that way.
 
 ## Chef as Record Keeping
