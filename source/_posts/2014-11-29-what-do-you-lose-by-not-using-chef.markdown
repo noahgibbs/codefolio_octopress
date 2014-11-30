@@ -3,6 +3,7 @@ layout: post
 title: "What Do You Lose By Not Using Chef?"
 date: 2014-11-29 17:29:23 -0800
 comments: true
+signup: deploy
 categories: 
 ---
 
