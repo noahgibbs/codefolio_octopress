@@ -18,6 +18,8 @@ One of the <b><i>really infuriating</i></b> things about Capistrano is that
 it's designed to allow you to do that. See the bottom of this post for a quick
 workaround, or just keep reading.
 
+{% img pull-right /images/cityscape.png 401 197 "Busy debugging at night..." %}
+
 <!--more-->
 
 Which means that even if you put Capistrano into your app repo, you'll need to
