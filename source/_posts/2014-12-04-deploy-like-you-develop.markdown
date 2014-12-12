@@ -15,7 +15,7 @@ Deployment turned into high-end development while we weren't looking.
 The best tools for configuring your server, <a href="http://getchef.com">Chef</a> and <a href="http://puppetlabs.com">Puppet</a>, now describe themselves in terms of <a href="http://en.wikipedia.org/wiki/Idempotence">idempotence</a> and <a href="http://en.wikipedia.org/wiki/Declarative_programming">declarative programming</a> &mdash;
 they're using the same concepts as Big Data tools, functional languages and other theory-heavy development.
 
-And those "best tools" aren't in a lab or a research paper somewhere. <a href="http://redmonk.com/dberkholz/2013/05/03/devops-and-cloud-a-view-from-outside-the-bay-area-bubble/">Silicon Valley already uses them and the rest of the world will soon.</a> Puppet and Chef are extremely common - my last four years of workplaces all used them. These tools just work better than the ones before them.
+And those "best tools" aren't in a lab or a research paper somewhere. <a href="http://redmonk.com/dberkholz/2013/05/03/devops-and-cloud-a-view-from-outside-the-bay-area-bubble/">Silicon Valley already uses them and the rest of the world will soon.</a> Puppet and Chef are extremely common - my last four years of workplaces all used them. These tools just work better than the provisioning tools before them.
 
 Like most "best tools" you don't know much about, they're a bit young and raw. "Cutting edge", you might say. "Bleeding edge" wouldn't be far off either. They're
 clearly <a href="https://docs.puppetlabs.com/mcollective/">still growing new features</a> &mdash; and even <a href="https://github.com/opscode/chef-metal">whole new areas of functionality</a>.
