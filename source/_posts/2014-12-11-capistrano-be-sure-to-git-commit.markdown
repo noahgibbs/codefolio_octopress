@@ -7,6 +7,8 @@ categories:
 signup: deploy
 ---
 
+{% img pull-right /images/cityscape.png 401 197 "Busy debugging at night..." %}
+
 (Also known as "why doesn't Capistrano pick up my changes???")
 
 One of the cool things about Capistrano is that you don't even have to put
@@ -17,8 +19,6 @@ whatever.
 One of the <b><i>really infuriating</i></b> things about Capistrano is that
 it's designed to allow you to do that. See the bottom of this post for a quick
 workaround, or just keep reading.
-
-{% img pull-right /images/cityscape.png 401 197 "Busy debugging at night..." %}
 
 <!--more-->
 
