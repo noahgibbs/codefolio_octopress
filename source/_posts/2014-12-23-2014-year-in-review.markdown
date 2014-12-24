@@ -23,8 +23,6 @@ Amounts are net of processing fees and refunds. Also, it's Dec. 23rd, so not qui
 * Rails Deploy In An Hour: $1,277.70. That's three pilot students and one professional package buyer. Plus 1 sale-and-refund of developer package from a guy who thought I was farther along than I was.
 * Misc - affiliate sale, guest episode: $600.00
 
-I use my own Stripe integration for Rebuilding Rails. I have switched to Gumroad for Rails Deploy In An Hour. Both are cheap and amazing, but so far I'll give Gumroad the win over raw Stripe. It's pretty close either way. But I'm tiny, and Gumroad makes sure my payment page is usable at 3am when the internet freaks out. My Stripe integration needs me running a (very simple) server.
-
 <a href="http://rails-deploy-in-an-hour.com">Rails Deploy In An Hour</a> is doing... okay. I reopened the class a few weeks ago and I haven't done much for it since then. I'm waiting until more of the class is finished to seriously advertise for it, which means no sooner than January and more likely February.
 
 {% img "img-responsive pull-right" /images/google_analytics_2014_12.png 442 143 Amazing how little traffic it takes to make money. %}
@@ -44,6 +42,8 @@ This year I launched <a href="http://rails-deploy-in-an-hour.com">Rails Deploy I
 I'm learning a huge amount: video editing, using other people's templates, thinking more about production values and having a somewhat slick product... It's not perfect, but it's much, much better than my earlier attempts.
 
 I also haven't completely neglected Rebuilding Rails. I had an affiliate sale of <a href="http://owningrails.com/">Owning Rails</a> for <a href="http://macournoyer.com/">Marc-Andre Cournoyer</a>, which I think went well all around. I responded to many customers (and prospective customers) with technical issues, and my turnaround time is, if anything, getting better. I <i>like</i> getting customer email. Somebody is using my work!
+
+I use my own Stripe integration for Rebuilding Rails. I have switched to Gumroad for Rails Deploy In An Hour. Both are cheap and amazing, but so far I'll give Gumroad the win over raw Stripe. It's pretty close either way. But I'm tiny, and Gumroad makes sure my payment page is usable at 3am when the internet freaks out. My Stripe integration needs me running a (very simple) server.
 
 I took Ramit Sethi's <a href="http://zerotolaunchsystem.com/">Zero To Launch class</a>, and that helped crystallize a <b>lot</b> of what became <a href="http://rails-deploy-in-an-hour.com">Rails Deploy In An Hour</a>. ZTL felt like a better intermediate class than 30x500, but a worse beginner class. It also reminded me how much I miss good community when I'm off by myself making products to sell. It's lonely, you know?
 
