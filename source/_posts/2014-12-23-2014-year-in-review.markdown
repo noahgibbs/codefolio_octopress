@@ -11,7 +11,7 @@ write theirs up, I believe I'll write my first. It's been a big year, and I have
 
 {% img "img-responsive pull-right" /images/calli.jpg 400 402 My younger daughter on a ferris wheel. %}
 
-Don't know me? Makes sense. I wrote <a href="https://rebuilding-rails.com">Rebuilding Rails</a>, an ebook about understanding Rails by building a Ruby web framework from the ground up, as a result of Amy Hoy's excellent <a href="https://30x500.com/">30x500</a> class. I'm writing a Ruby web app deployment class called <a href="http://rails-deploy-in-an-hour.com">Rails Deploy In An Hour</a>. I'm still employed full-time as the Analytics lead at <a href="http://onlive.com">OnLive</a>, a cloud-gaming company. I have a wife and two kids, so selling products on the side is an adventure I don't really have the time for &mdash; but I don't let it stop me :-)
+Don't know me? Makes sense. I wrote <a href="https://rebuilding-rails.com">Rebuilding Rails</a>, an ebook about understanding Rails by building a Ruby web framework from the ground up, as a result of Amy Hoy's excellent <a href="https://30x500.com/">30x500</a> class. I'm writing a Ruby web app deployment class called <a href="http://rails-deploy-in-an-hour.com">Rails Deploy In An Hour</a>. I'm employed full-time as the Analytics lead at <a href="http://onlive.com">OnLive</a>, a cloud-gaming company. I have a wife and two kids, so selling products on the side is an adventure I don't really have the time for &mdash; but I don't let it stop me :-)
 
 Let's start with dollar amounts before explanations. That's why I'd be reading if I were you.
 
