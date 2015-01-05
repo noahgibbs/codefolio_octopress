@@ -4,6 +4,7 @@ title: "Soft Skills by John Sonmez"
 date: 2014-12-27 22:09
 comments: true
 categories: 
+signup: deploy
 ---
 I had the good luck to be an early reviewer of <a href="https://twitter.com/jsonmez">John Sonmez</a>'s excellent book <a href="http://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397">"Soft Skills: The Software Developer's Life Manual"</a>. So you get a review!
 
