@@ -4,7 +4,7 @@ title: "Why Do They Say Rails Doesn't Scale?"
 date: 2015-01-04 19:27
 comments: true
 categories: 
-signup: rails
+signup: rebuilding
 ---
 
 If you're new to Ruby on Rails, you may be new to the old debates (pro and con) about how <a href="http://www.quora.com/Does-Ruby-on-Rails-scale">"Rails doesn't scale."</a> You might wonder why people say that, or where it came from.
