@@ -10,7 +10,11 @@ meta:
 ---
 Are you getting this error from Bundler?
 
-(Short version: if using rvm, do "rvm pkg install openssl; rvm reinstall all --force --with-openssl-dir=$rvm_path/usr")
+Short version: if using rvm, do this:
+    rvm pkg install openssl
+    rvm reinstall all --force --with-openssl-dir=$rvm_path/usr"
+
+Want to know what went wrong?
 
 You could edit the live copy of lib/bundler/fetcher.rb to print out the exception -- and when you do, you might see it's a "bad ecpoint" problem in OpenSSL.
 
