@@ -41,6 +41,9 @@ and give you much less power. If you process many
 simultaneous requests or run many background threads, it will be
 at least three or four times as expensive for the same power.
 
+For a powerful server you're actually using, it's easy to pay $250/mo for what Amazon might have
+delivered for $100/mo or Digital Ocean for $80/mo.
+
 <!-- more -->
 
 Third-party services like MySQL (vs Postgres), Cassandra, Redis or
@@ -73,7 +76,7 @@ a specific version? Sorry, not on Heroku.
 Compatibility with app servers is also spotty. They provide Thin
 for EventMachine, but there are slightly odd limits as a result
 of the Heroku architecture, and it generally won’t work quite
-right. Which isn’t a problem if you use Unicorn, of course.
+right. Which isn’t a problem if you use Unicorn (now Puma), of course.
 Heroku is great *if* you want pre-chosen off-the-shelf components.
 Which often you do, and occasionally you don’t.
 
@@ -94,6 +97,12 @@ last from request to request.
 
 You can do some Heroku-specific logging, but you have to do it
 all in a very specific style.
+
+Your app serves its own static content, which can be slow -- especially in
+Rails. It also means Heroku silently inserts gem(s) (e.g. <a href="https://github.com/heroku/rails_serve_static_assets">rails_serve_static_assets</a>) to make your app
+behave the way they want. And it can cause problems. The reason they changed
+from Unicorn to Puma was because Unicorn has significant denial-of-service
+problems without a reverse proxy, for instance.
 
 It also means that a lot of your existing operations knowledge
 doesn’t work. You can’t log into the machine and poke around,
