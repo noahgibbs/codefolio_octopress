@@ -54,6 +54,10 @@ It's totally possible to do all of these, of course. You can go gain a lot of
 skill in technology, then stop gaining more for awhile, or gain it more slowly
 (i.e. not at work with "science projects".)
 
+The communication/attitude thing is possible too -- it requires a level of
+humility and empathy that doesn't come without a lot of practice and a fair
+quantity of screwing up over a number of years.
+
 It's just that you want somebody who has put a short teaching career worth of
 effort into teaching. And a long programming career worth of effort into
 programming. And architecture. Plus you want them to be constantly positive,
