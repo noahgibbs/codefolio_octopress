@@ -110,16 +110,32 @@ refresh skills, repeat.
 I'm sure there are other methods. Some day, perhaps our industry will adopt
 one.
 
+## What If I Want To BE ONE?
+
+You could get an uncommon concession like the ones above. Please try to get it
+in writing -- it can be hard for your manager to justify honoring an
+only-verbal agreement for an unusual concession. You know how it is.
+
+Or you could put in the much lesser effort to start your own company, become a
+freelancer or otherwise work for yourself. I suspect you'll pay yourself more
+and respect yourself more than almost any company.
+
+Also, have you thumbed through a copy of <a
+href="http://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397">John
+Sonmez' "Soft Skills"</a>? That's another technique to get good, work for
+yourself, and genuinely get the benefits of being something as awesome as the
+above.
+
+Being humble gets easier when you're being treated well. Being treated well
+gets easier when you can just walk away.
+
+I'm writing this because I <b>do</b> know people that match that
+description. And I see how they're usually treated.
+
+I want better for you.
+
 ## The Upshot
 
 If you're a company trying to hire one of these, now you know why you can't
 find them. You can treat them better, or you can keep never finding them. You
 have no other options.
-
-If you match the "unicorn list" as an engineer, make sure you get an uncommon
-concession like the ones above. If you're an engineer that <i>could</i> be
-such a unicorn, you're probably not well served by "normal" full-time
-employment. Figure out what you'll do instead, or don't put the ludicrous
-effort in to get good at that. Instead, put in the much lesser effort to start
-your own company, become a freelancer or otherwise work for yourself. You'll
-pay yourself more and respect yourself more than almost any company.
