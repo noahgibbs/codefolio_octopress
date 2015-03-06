@@ -87,12 +87,14 @@ is keeping current and hasn't just stopped learning."
 Would it be possible to have an industry that allowed such people to keep
 working? Absolutely. Do we have one now? Nope.
 
-If we had enough stability that making humble technical choices wouldn't
+If you had enough stability that making humble technical choices wouldn't
 result in career suicide in two years, that would do it (we don't.) If would
 help extra if older people weren't required to demonstrate how current they
-are with any technology they couldn't have learned five years ago.
+are with any technology they couldn't have learned five years ago. This is
+often true at, say, defense contractors, and sometimes that allows such
+engineers to thrive.
 
-If we put aside a specific chunk of time, regularly, for keeping skills up to
+If you put aside a specific chunk of time, regularly, for keeping skills up to
 date, that might allow somebody like this to work for you -- see Google's
 now-defunct 20% time for one possible method.
 
@@ -106,9 +108,14 @@ one.
 
 ## The Upshot
 
-If you match the "unicorn list" as an engineer, make sure you get an uncommon
-concession like the ones above.
-
 If you're a company trying to hire one of these, now you know why you can't
 find them. You can treat them better, or you can keep never finding them. You
 have no other options.
+
+If you match the "unicorn list" as an engineer, make sure you get an uncommon
+concession like the ones above. If you're an engineer that <i>could</i> be
+such a unicorn, you're probably not well served by "normal" full-time
+employment. Figure out what you'll do instead, or don't put the ludicrous
+effort in to get good at that. Instead, put in the much lesser effort to start
+your own company, become a freelancer or otherwise work for yourself. You'll
+pay yourself more and respect yourself more than almost any company.
