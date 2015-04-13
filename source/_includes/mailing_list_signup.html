@@ -1,6 +1,6 @@
-{% if page.signup == "deploy" %}
+{% if page.signup == null or page.signup == "deploy" %}
 
-<h3>Free Email Deploy Class?</h3>
+<h3>Free Ruby Deploy Stuff?</h3>
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
@@ -29,8 +29,9 @@
     <div class="clear"><input type="submit" value="I Want That!" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
 </form>
 </div>
-    <lead>If you sign up, you'll hear when <a href="http://rails-deploy-in-an-hour.com">my class is ready</a> and progress as it
-happens!</lead>
+<lead>
+  You'll also hear about my free deployment software and paid class.
+</lead>
 <script type="text/javascript">
 var fnames = new Array();var ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';
 try {
