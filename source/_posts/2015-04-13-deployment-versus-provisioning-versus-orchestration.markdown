@@ -6,6 +6,7 @@ comments: true
 categories:
 signup: deploy
 ---
+<img class="pull-right" width="315" height="409" src="/images/bad_google_search.png" alt="dubious search" title="At least _you_ knew to search on deployment..."> </img>
 Hey, Ruby web developers! Having trouble asking deployment questions?
 Not sure what Provisioning or Orchestration are? Getting bad results
 Googling your questions, but not sure why?
