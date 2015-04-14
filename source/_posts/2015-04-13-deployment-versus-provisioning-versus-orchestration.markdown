@@ -34,11 +34,11 @@ involved in getting our app and its dependencies installed. That's
 cool. But don't be surprised if you confuse your Ops guy.)
 <!--more-->
 
-Ruby developers often use <a href="http://capistranorb.com/">Capistrano</a> or <a href="http://nadarei.co/mina/">Mina</a> for deployment.
+Ruby developers often use <a href="http://capistranorb.com/" target="_blank">Capistrano</a> or <a href="http://nadarei.co/mina/" target="_blank">Mina</a> for deployment.
 
 ## Provisioning
 
-The word &lsquo;<a
+The word &lsquo;<a target="_blank"
 href="http://en.wikipedia.org/wiki/Provisioning">Provisioning</a>&rsquo;
 is normally used by Ops folks to refer to getting computers or virtual
 hosts to use, and installing needed libraries or services on
@@ -48,19 +48,21 @@ buying access to network bandwidth, but you can probably ignore that.
 The thing to remember is that &lsquo;deployment&rsquo; does not, as a
 rule, include &lsquo;provisioning&rsquo;.
 
-Ruby developers often use <a href="http://getchef.io">Chef</a>, <a
-href="http://ansible.com">Ansible</a> or <a
+Ruby developers often use <a target="_blank" href="http://getchef.io">Chef</a>, <a target="_blank"
+href="http://ansible.com">Ansible</a> or <a target="_blank"
 href="http://puppetlabs.com">Puppet</a> for server provisioning. This
-can also be done automatically by a service like <a
-href="http://engineyard.com">Engine Yard</a>, <a
-href="http://heroku.com">Heroku</a> or <a
+can also be done automatically by a service like <a target="_blank"
+href="http://engineyard.com">Engine Yard</a>, <a target="_blank"
+href="http://heroku.com">Heroku</a> or <a target="_blank"
 href="http://ninefold.com">NineFold</a>.
 
 ## Orchestration
 
+<img class="pull-right" width="256" height="143" src="/images/orchestra_512_287.jpg" alt="orchestra" title="The blond kid is totally an app server."> </img>
+
 Now we're getting a little less common.
 
-<a
+<a target="_blank"
 href="http://en.wikipedia.org/wiki/Orchestration_(computing)">Orchestration</a>
 means arranging or coordinating multiple systems. It's also used to
 mean "running the same tasks on a bunch of servers at once, but not
@@ -75,9 +77,9 @@ Normal uses are things like:
 
 The most common orchestration tool for Ruby programmers is Capistrano, followed by Mina.
 
-Orchestration tools include <a
-href="http://www.fabfile.org/">Fabric</a>, <a
-href="https://puppetlabs.com/mcollective">MCollective</a>, <a
+Orchestration tools include <a target="_blank"
+href="http://www.fabfile.org/">Fabric</a>, <a target="_blank"
+href="https://puppetlabs.com/mcollective">MCollective</a>, <a target="blank"
 href="http://saltstack.com/">Salt</a> and many more. It's pretty
 common for your Orchestration tool to also be a provisioning tool
 (Salt, arguably Ansible) or an app deploy tool (Capistrano, Mina), or
@@ -85,3 +87,18 @@ potentially something else as well.
 
 Of course, that's only if you don't count SSH, the most common
 orchestration tool of all :-)
+
+Here's a bonus: Configuration Management.
+
+## Configuration Management
+
+Config Management is part of provisioning. Basically, that's using a
+tool like Chef, Puppet or Ansible to configure your
+server. "Provisioning" often implies it's the first time you do
+it. Config management usually happens repeatedly.
+
+Config management tools normally take "facts" to make true about the
+server -- "make sure /etc/my.cnf contains this" or "NGinX should be
+running with the following config files." The facts are accumulated
+into modules ("cookbooks" in Chef). But that's what a module is made
+of.
