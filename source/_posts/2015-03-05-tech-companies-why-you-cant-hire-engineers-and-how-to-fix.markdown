@@ -15,6 +15,8 @@ description for an engineer we'd all love to work with</a>.
 He says he can't find any of those engineers to hire. Spoiler: neither can your company. I'm going to tell you why
 not, and what it would take to fix it.
 
+<!--more-->
+
 If you're going to read Chad's post unbiased, do it now. Otherwise I'll
 summarize that engineer for you:
 
