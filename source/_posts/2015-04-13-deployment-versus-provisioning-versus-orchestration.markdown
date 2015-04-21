@@ -55,7 +55,8 @@ href="http://puppetlabs.com">Puppet</a> for server provisioning. This
 can also be done automatically by a service like <a target="_blank"
 href="http://engineyard.com">Engine Yard</a>, <a target="_blank"
 href="http://heroku.com">Heroku</a> or <a target="_blank"
-href="http://ninefold.com">NineFold</a>.
+href="http://ninefold.com">NineFold</a>
+(but NineFold <a href="http://info.ninefold.com/webmail/36692/220177378/ec473de6e33f9bd0f87845842205a004">doesn't do Ruby any more).
 
 ## Orchestration
 
