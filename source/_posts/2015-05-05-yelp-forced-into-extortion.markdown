@@ -21,6 +21,8 @@ you have people who are about to buy something online in a trackable way. Emma d
 their thing. Users looking for reviews are (in her case) not going to buy through her, so she doesn't get paid that way. Some sites
 can avoid that, but Emma can't.
 
+<!--more-->
+
 You can't charge the people looking for reviews. There are too many free reviews sites out there. And those folks are conditioned to
 believe reviews are mostly free. You'd need the reputation of Consumer Reports, and even so they don't make much money &mdash;
 that might be a lifestyle business for Emma, but not enough to interest her VCs.
