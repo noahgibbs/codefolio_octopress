@@ -31,7 +31,7 @@ We'll be in stateroom 5546, in case that's useful to know.
 
 <h2>Friends and Family</h2>
 
-If you've been invited, feel free to bring a girlfriend, partner, spouse
+If you've been invited, feel free to bring a girl/boyfriend, partner, spouse
 or your favorite "it's complicated." This will also be a very child-friendly
 gathering. Our family has girls who will be 8 and just-turned-6, and most of
 our invitees have children.
