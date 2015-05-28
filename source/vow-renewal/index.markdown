@@ -21,7 +21,7 @@ anniversary and vow renewal on a seven-day Caribbean cruise!
 
 <h2>Travel Arrangements</h2>
 
-To make your travel arrangements, please
+To make your travel arrangements (cruise and air travel to Florida), please
 call Disney at (800) 566-0972 to make your reservations.
 Please ask to be linked with reservation #26410014 (Noah and Krissy). You should be on
 the Disney Fantasy, embarking August 27th, 2016 from Port Canaveral, Florida. You
