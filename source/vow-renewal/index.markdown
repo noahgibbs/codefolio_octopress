@@ -65,6 +65,12 @@ preferable.
 Very pregnant mothers and newborns aren't permitted on the cruise. Make
 your early 2016 plans accordingly :-)
 
+<h2>The Ship</h2>
+
+Curious about specifics? A very nice lady on the Internet that I don't
+know has <a href="http://www.mission-food.com/2015/06/disney-cruise-line-my-favorite-things.html">written
+extensively about the Disney Fantasy</a>, the ship we'll be on.
+
 <h2> Questions? </h2>
 
 We'd love to answer your questions &mdash; especially if they'll help you join us!
