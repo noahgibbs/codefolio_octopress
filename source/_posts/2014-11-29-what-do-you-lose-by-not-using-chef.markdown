@@ -36,7 +36,7 @@ production. So that's kind of cool.
 
 <!--more-->
 
-## Chef If Your Server Gets P0wned
+## Chef If Your Server Gets Owned
 
 The Internet is more dangerous than it used to be. Servers get messed
 up. People screw with your app, your database, your WordPress install and so
