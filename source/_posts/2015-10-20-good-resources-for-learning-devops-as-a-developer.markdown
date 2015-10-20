@@ -15,7 +15,7 @@ resources on learning how to deploy a Rails app, grow/maintain its
 deployed environment, and optimize for your application's performance
 and scaling abilities?</blockquote>
 
-n general, not really. This turns out to be a gaping hole in the landscape.
+In general, not really. This turns out to be a gaping hole in the landscape.
 
 Part of the problem is that there's not one standard way to do this,
 and the methods change constantly. You can find tutorials and
@@ -25,8 +25,8 @@ overview. You have to already have a good idea of what the top level
 looks like, which is difficult given that the tools make different
 assumptions and are for different scenarios, but don't spell that out.
 
-You can see an example of one way to set it up in my Ruby Mad Science
-open-source software (https://github.com/noahgibbs/madscience), but
+You can see an example of one way to set it up in my <a href="https://github.com/noahgibbs/madscience">Ruby Mad Science
+open-source software</a>, but
 please don't purchase <a href="http://rails-deploy-in-an-hour.com">the associated class</a>. I'm in the process of
 winding it down.
 
