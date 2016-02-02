@@ -1,6 +1,4 @@
-{% if page.signup == null or page.signup == "deploy" %}
-
-<h3>Want Free Ruby Deploy Lessons?</h3>
+<h3>Free Email Rails Class? <a href="http://rebuilding-rails.com">Free Chapters</a>? News?</h3>
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
@@ -10,7 +8,8 @@
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
-<form action="http://rebuilding-rails.us2.list-manage2.com/subscribe/post?u=c5569fb6471a3e64be2aa1466&amp;id=bc7e08f416" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" role="form" novalidate>
+
+<form action="http://rebuilding-rails.us2.list-manage2.com/subscribe/post?u=c5569fb6471a3e64be2aa1466&amp;id=82afd59934" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" role="form" novalidate>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
@@ -25,7 +24,7 @@
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
 	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;"><input type="text" name="b_c5569fb6471a3e64be2aa1466_bc7e08f416" tabindex="-1" value=""></div>
+    <div style="position: absolute; left: -5000px;"><input type="text" name="b_c5569fb6471a3e64be2aa1466_82afd59934" tabindex="-1" value=""></div>
     <div class="clear"><input type="submit" value="I Want That!" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
 </form>
 </div>
@@ -97,7 +96,7 @@ function mce_init_form(){
       var options = { errorClass: 'mce_inline_error', errorElement: 'div', onkeyup: function(){}, onfocusout:function(){}, onblur:function(){}  };
       var mce_validator = $("#mc-embedded-subscribe-form").validate(options);
       $("#mc-embedded-subscribe-form").unbind('submit');//remove the validator so we can get into beforeSubmit on the ajaxform, which then calls the validator
-      options = { url: 'http://rebuilding-rails.us2.list-manage.com/subscribe/post-json?u=c5569fb6471a3e64be2aa1466&id=bc7e08f416&c=?', type: 'GET', dataType: 'json', contentType: "application/json; charset=utf-8",
+      options = { url: 'http://rebuilding-rails.us2.list-manage.com/subscribe/post-json?u=c5569fb6471a3e64be2aa1466&id=82afd59934&c=?', type: 'GET', dataType: 'json', contentType: "application/json; charset=utf-8",
                     beforeSubmit: function(){
                         $('#mce_tmp_error_msg').remove();
                         $('.datefield','#mc_embed_signup').each(
@@ -224,32 +223,3 @@ function mce_success_cb(resp){
 
 </script>
 <!--End mc_embed_signup-->
-
-
-{% elsif page.signup == null or page.signup == "rebuilding" %}
-<!-- Begin MailChimp Signup Form -->
-<div class="well" id="mc_embed_signup">
-<form action="http://rebuilding-rails.us2.list-manage.com/subscribe/post?u=c5569fb6471a3e64be2aa1466&amp;id=82afd59934" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-	<h3>Free Email Rails Class? <a href="http://rebuilding-rails.com">Two Free Chapters</a>? News?</h3>
-<div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address </label>
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-	<div id="mce-responses" class="clear">
-		<div class="response" id="mce-error-response" style="display:none"></div>
-		<div class="response" id="mce-success-response" style="display:none"></div>
-	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;"><input type="text" name="b_c5569fb6471a3e64be2aa1466_82afd59934" value=""></div>
-	<div class="clear"><input type="submit" value="I Want That!" name="subscribe" id="mc-embedded-subscribe" class="button btn btn-lg btn-success"></div>
-</form>
-</div>
-
-<!--End mc_embed_signup-->
-
-{% else %}
-
-<div>
-  You found a problem with the page!
-</div>
-
-{% endif %}
