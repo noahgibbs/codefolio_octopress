@@ -33,7 +33,7 @@ It turns out that programmers hate doing deployment. The programmers
 I'm targeting (hobbyists, early developers, small startup guys)
 extra-specially hate doing deployment. They just want it done and
 working with minimal work.
-
+<!--more-->
 This is still a pipe dream, it turns out. My software helps a bit, but
 not enough. Let's talk about why.
 
@@ -145,6 +145,15 @@ I'm saying.
 
 In no particular order...
 
+### But Didn't People Buy It?
+
+A few. But this is clearly not as good a business as, say, continuing
+to sell my Ruby on Rails ebook, and that's not a crazy high bar. More
+to the point, there was very little *continuing* buying of it. This is
+just a hard market. And with this much maintenance, "not as good a
+business as selling one specific ebook forever" is a pretty severe
+condemnation :-/
+
 ### Does This Mean Nobody Will Ever Solve This?
 
 Not at all. Heroku is doing a pretty darn good job with one solution,
@@ -159,7 +168,8 @@ it works.
 
 Nope. This basic approach (config management, orchestration, VMs) is
 actually really powerful, including the Docker variation on the same
-thing. But right now it's a lot of work.
+thing. But right now it's a lot of work. Several important tools are
+missing, and several more are clearly not at all usable for this.
 
 If you have a dedicated DevOps team, it's great right now. If you're a
 single random developer, it's too much work. But the amount of work
@@ -170,21 +180,20 @@ current arrangement before then.
 So I guess everybody *will* stop using Chef, but not for awhile. All
 of the current tools (Chef, Puppet, Ansible, Salt) are early and have
 significant warts.  I can't be 100% sure one of them won't be the
-long-term solution, but it'd surprise me anyway.
+long-term solution, but not in any of their current form.
 
 ### Doesn't Docker Fix All This?
 
-Not really. Docker still has a huge question mark for "state on the
-host." Logfiles and database tables are big deals that way, for
-instance. Many vendors would like you to pay them for anything
-involving state in any way, which is ten kinds of "not the whole
-answer."
+Not really. Docker still has a huge question mark for state of all
+kinds &mdash; logfiles, databases, data files, caches.  Most vendors
+would like you to pay them to handle the stuff involving state, which
+is ten kinds of "not the whole answer."
 
 When I say "huge question mark" I mean "what do you do about that?"
-Do you migrate it off immediately? To where? How do you make a
-seamless transition, given how hard database switchovers are? There
-are various (early, slightly ugly) answers, but none that feel like
-what we'll be doing in 5-10 years.
+Do you migrate it off immediately? To where, a paid third-party
+service? How do you make a seamless transition, given how hard SQL
+database switchovers are? There are various (early, slightly ugly)
+answers, but none that feel like what we'll be doing in 5-10 years.
 
 Docker is powerful. But our workflow about how to *use* it is still
 in its infancy.
