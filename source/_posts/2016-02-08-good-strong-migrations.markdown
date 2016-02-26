@@ -16,7 +16,7 @@ There are several libraries meant to help you follow migration best
 practices. Two of them are <a
 href="https://github.com/testdouble/good-migrations">"Good
 Migrations"</a> and <a
-href="https://github.com/ankane_strong_migrations">"Strong
+href="https://github.com/ankane/strong_migrations">"Strong
 Migrations"</a>.
 
 Good Migrations is basically "don't use models in your migrations."
