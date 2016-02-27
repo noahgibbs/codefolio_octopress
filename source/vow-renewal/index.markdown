@@ -74,7 +74,7 @@ extensively about the Disney Fantasy</a>, the ship we'll be on.
 <h2> Questions? </h2>
 
 We'd love to answer your questions &mdash; especially if they'll help you join us!
-Email me and/or Krissy at noah_gibbs@yahoo.com or somethingdifferent@gmail.com!
+Email me and/or Krissy at the.codefolio.guy@gmail.com or somethingdifferent@gmail.com!
 
 Or give us a call - 510-260-5409 for me, or 408-202-4083 for Krissy.
 

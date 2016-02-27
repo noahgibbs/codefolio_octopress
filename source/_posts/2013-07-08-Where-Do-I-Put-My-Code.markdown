@@ -8,6 +8,10 @@ categories: [ruby,rails,class]
 meta:
   disqus_id: "http://codefol.io/posts/48"
 ---
+
+(Hey! There's a <a href="http://codefol.io/posts/where-do-i-put-my-code-in-rails-updated">great, expanded, new version of this post. Go there instead!</a>)
+
+
 Sometimes you’re <i>sure</i> that’s not the right place for that piece of code, but where <i>does</i> it go?  "Refactor" is only a good answer if you know how to fix it.
 
 In a Rails application, and what kind of code goes where?

@@ -22,7 +22,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email: noah_gibbs@yahoo.com
+email: the.codefolio.guy@gmail.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
