@@ -3,3 +3,7 @@ body article img:not(.no-border) {
   border-width: 0.25em;
   margin: 15px;
 }
+
+.img-responsive .img-center {
+  margin: 0 auto;
+}
