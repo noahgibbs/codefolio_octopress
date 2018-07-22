@@ -74,11 +74,11 @@ I was complaining to the 30x500 group that nobody seemed interested in my sales 
 
 I won't say "things looked grim."  I have a day job, so I can pretty much skip the cheap "will he <i>starve</i>?" drama.  But things looked unlikely to change.
 
-Still, by early July I actually wrote a <a href="http://codefol.io/posts/2-Developers-Are-You-Sure-That-Payment-Page-is-Secure-">couple</a> of <a href="http://codefol.io/posts/3-BigCo-New-Employee-Training-Inside-Voice">blog</a> <a href="http://codefol.io/posts/5-The-Five-Minute-Framework">posts</a>.  The first one was likely to alienate my audience (it was even worse pre-editing!) and the other two weren't terribly interesting.
+Still, by early July I actually wrote a <a href="http://codefol.io/posts/Developers-Are-You-Sure-That-Payment-Page-is-Secure-">couple</a> of <a href="http://codefol.io/posts/BigCo-New-Employee-Training-Inside-Voice">blog</a> <a href="http://codefol.io/posts/The-Five-Minute-Framework">posts</a>.  The first one was likely to alienate my audience (it was even worse pre-editing!) and the other two weren't terribly interesting.
 
 The idea was that these would magically attract my audience, despite me having no traffic.  I posted one of them to Reddit and Hacker News and then basically ignored it.  Reddit and HN ignored it, too.
 
-But on July 12th I wrote a wonderfully persnickety and fiddly <a href="http://codefol.io/posts/9-How-Does-Rack-Parse-Query-Params-With-parse-nested-query">post on parsing URL params in Rack</a>, which suddenly turned everything around.  Thanks to <a href="http://clean-ruby.com/">Jim Gay</a>, Reddit and <a href="http://rubyflow.com">RubyFlow</a> for helping me put all the pieces into the right places…
+But on July 12th I wrote a wonderfully persnickety and fiddly <a href="http://codefol.io/posts/How-Does-Rack-Parse-Query-Params-With-parse-nested-query">post on parsing URL params in Rack</a>, which suddenly turned everything around.  Thanks to <a href="http://clean-ruby.com/">Jim Gay</a>, Reddit and <a href="http://rubyflow.com">RubyFlow</a> for helping me put all the pieces into the right places…
 
 ## A Purchase!
 
@@ -90,15 +90,15 @@ After debugging the site I emailed him an abject apology and a current PDF of th
 
 They say that as a single random person selling a product you're supposed to make it clear that it's just you.  Treat it as an advantage, they say.  Let's just say that I do that a <i>lot</i> and so far it hasn't burned me badly.  I recommend it!
 
-The fellow in question was absolutely wonderful and, the next day, actually ordered my book.  I was ecstatic and wrote <a href="http://codefol.io/posts/11-Deep-Rails-Understanding-HashWithIndifferentAccess-Understanding-the-Params-Hash">an even fiddlier blog post</a> to celebrate.
+The fellow in question was absolutely wonderful and, the next day, actually ordered my book.  I was ecstatic and wrote <a href="http://codefol.io/posts/Deep-Rails-Understanding-HashWithIndifferentAccess-Understanding-the-Params-Hash">an even fiddlier blog post</a> to celebrate.
 
-I also wrote <a href="http://codefol.io/posts/13-Unsolvable-Ruby-Problems-Array-map-on-an-Array-subclass-but-keep-the-subclass-">a linkbait post on a genuine but minor Ruby language design problem</a> and posted it to Reddit.
+I also wrote <a href="http://codefol.io/posts/Unsolvable-Ruby-Problems-Array-map-on-an-Array-subclass-but-keep-the-subclass-">a linkbait post on a genuine but minor Ruby language design problem</a> and posted it to Reddit.
 
 Reddit hated it, downvoted me mercilessly and sent me a bunch of traffic and email list subscribers.  Yay?
 
 I got another purchase on July 17th and another on the 20th.  I was still checking my Stripe account manually and promised to email people their ebook "within about a day" on the payment page.  Weirdly, it was purchase #12 before anybody else complained about delivery time.  Why don't you people hate me more?
 
-But developers kept looking at my posts.  I kept posting some of them to Reddit and RubyFlow.  Then I wrote <a href="http://codefol.io/posts/14--What-is-Rack-A-Primer">probably my most useful post so far</a>, in my own opinion.
+But developers kept looking at my posts.  I kept posting some of them to Reddit and RubyFlow.  Then I wrote <a href="http://codefol.io/posts/What-is-Rack-A-Primer">probably my most useful post so far</a>, in my own opinion.
 
 I was still working on automating everything as quickly as I could…  Sure, things were working, but I worried at every hour of the day and night.  Was I disappointing my hypothetical customers?  I'm a dad, worrying all night isn't out of my way.
 
@@ -112,9 +112,9 @@ On July 30th, <a href="http://rubysource.com">RubySource</a> found my book someh
 
 I also finally automated sending out people's ebook immediately when they paid me.  That was kind of important ;-)  I <a href="http://us2.campaign-archive2.com/?u=c5569fb6471a3e64be2aa1466&id=91cc6cf613&e=[UNIQID]">emailed 119 people about it</a>, mostly because it was also two days before the price hike.  This time I <b>did</b> include a link to <a href="https://rebuilding-rails.com/payment_page">buy the book</a>.
 
-Well, almost.  After having <a href="http://codefol.io/posts/2-Developers-Are-You-Sure-That-Payment-Page-is-Secure-">written an impassioned post</a> about how you should never put your credit card info into a page without a green lock, I forgot to type "https" in the email.  Somebody emailed me back, mentioning my hypocrisy, immediately.  Have I mentioned that I love writing for developers?  I really do.
+Well, almost.  After having <a href="http://codefol.io/posts/Developers-Are-You-Sure-That-Payment-Page-is-Secure-">written an impassioned post</a> about how you should never put your credit card info into a page without a green lock, I forgot to type "https" in the email.  Somebody emailed me back, mentioning my hypocrisy, immediately.  Have I mentioned that I love writing for developers?  I really do.
 
-I thought fast and fixed it <a href="http://codefol.io/posts/20-Automatic-HTTPS-JavaScript-Redirect">with a quick JavaScript patch</a> before anybody else noticed.  Abject apologies to my customers have served me well, but it's nice to make one fewer!
+I thought fast and fixed it <a href="http://codefol.io/posts/Automatic-HTTPS-JavaScript-Redirect">with a quick JavaScript patch</a> before anybody else noticed.  Abject apologies to my customers have served me well, but it's nice to make one fewer!
 
 ## Things Slow Down…  Wait, No They Don't
 

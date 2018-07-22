@@ -28,17 +28,16 @@ The class is normally offered by email, but you're cutting to the chase with a h
 <h3>Links:</h3>
 
 <ul>
-<li><a href="http://codefol.io/posts/46-Understanding-the-Structure-of-Rails">Understanding the Structure of Rails</a></li>
+<li><a href="http://codefol.io/posts/Understanding-the-Structure-of-Rails">Understanding the Structure of Rails</a></li>
 <li><a href="http://codefol.io/posts/where-do-i-put-my-code-in-rails-updated">Where Do I Put My Code? (expanded and updated)</a></li>
-<li><a href="http://codefol.io/posts/14--What-is-Rack-A-Primer">What is Rack?  A Primer</a></li>
-<li><a href="http://codefol.io/posts/32-No-More-Requires">No More Requires -- Rails Doesn't Need Requires and Neither Do You</a></li>
-<li><a href="http://codefol.io/posts/9-How-Does-Rack-Parse-Query-Params-With-parse-nested-query">How Does Rack Parse Query Params?  With parse_nested_query</a></li>
-<li><a href="http://codefol.io/posts/11-Deep-Rails-Understanding-HashWithIndifferentAccess-Understanding-the-Params-Hash">Understanding HashWithIndifferentAccess</a></li>
-<li><a href="http://portal.sliderocket.com/AIMWD/Five-Minute-Framework">The Five-Minute Rack Framework</a></li>
-<li><a href="http://codefol.io/posts/51-Digging-Into-the-Rails-Source">Digging Into the Rails Source</a></li>
-<li><a href="http://codefol.io/posts/52-The-Programmer-s-Secret-Weapon-for-Code-Spelunking">The Programmer's Secret Weapon for Code Spelunking</a></li>
+<li><a href="http://codefol.io/posts/What-is-Rack-A-Primer">What is Rack?  A Primer</a></li>
+<li><a href="http://codefol.io/posts/No-More-Requires">No More Requires -- Rails Doesn't Need Requires and Neither Do You</a></li>
+<li><a href="http://codefol.io/posts/How-Does-Rack-Parse-Query-Params-With-parse-nested-query">How Does Rack Parse Query Params?  With parse_nested_query</a></li>
+<li><a href="http://codefol.io/posts/Deep-Rails-Understanding-HashWithIndifferentAccess-Understanding-the-Params-Hash">Understanding HashWithIndifferentAccess</a></li>
+<li><a href="http://codefol.io/posts/Digging-Into-the-Rails-Source">Digging Into the Rails Source</a></li>
+<li><a href="http://codefol.io/posts/The-Programmer-s-Secret-Weapon-for-Code-Spelunking">The Programmer's Secret Weapon for Code Spelunking</a></li>
 </ul>
 
-And as a bonus for reading this far, <a href="http://codefol.io/posts/50-Web-Servers-and-Application-Servers">a quick answer on why you'd deploy with a reverse proxy and an app server, not just an app server</a>.
+And as a bonus for reading this far, <a href="http://codefol.io/posts/Web-Servers-and-Application-Servers">a quick answer on why you'd deploy with a reverse proxy and an app server, not just an app server</a>.
 
 Having trouble with anything? Email me as the.codefolio.guy at Google's email service. I love to hear from readers. You can also find me <a href="http://twitter.com/codefolio">on Twitter</a>.

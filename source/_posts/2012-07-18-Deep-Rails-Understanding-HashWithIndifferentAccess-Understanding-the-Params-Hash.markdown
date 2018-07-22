@@ -8,7 +8,7 @@ categories: [rails,params,hashwithindifferentaccess,ruby]
 meta:
   disqus_id: "http://codefol.io/posts/11"
 ---
-Rails <a href="http://codefol.io/posts/9-How-Does-Rack-Parse-Query-Params-With-parse-nested-query">parameter parsing</a> can be hard to understand, but it goes beyond that.
+Rails <a href="http://codefol.io/posts/How-Does-Rack-Parse-Query-Params-With-parse-nested-query">parameter parsing</a> can be hard to understand, but it goes beyond that.
 
 Just understanding the "params" object in your controller actions is a little tricky.  Ever notice how params[:bob] and params["bob"] both work?  The magic type behind that is called HashWithIndifferentAccess.  Yeah, it's a mouthful.  I wish I were making that up, but no.
 
@@ -57,7 +57,7 @@ params[:item] = my_array
 
 Your array will actually change!  That hash inside will suddenly have indifferent access and it will point to a whole different object!
 
-(Why?  I spent awhile with git log trying to answer that.  Looks like it's <a href="https://github.com/rails/rails/commit/f43e5d160bf9708ad50b58c8168e38579769e024">because just mapping the Array won't give you the right subclass</a>, so they rewrite the innards instead!  <a href="http://codefol.io/posts/13-Unsolvable-Ruby-Problems-Array-map-on-an-Array-subclass-but-keep-the-subclass-">Map into an unknown Array subclass is an unsolvable problem in Ruby</a>, actually...)
+(Why?  I spent awhile with git log trying to answer that.  Looks like it's <a href="https://github.com/rails/rails/commit/f43e5d160bf9708ad50b58c8168e38579769e024">because just mapping the Array won't give you the right subclass</a>, so they rewrite the innards instead!  <a href="http://codefol.io/posts/Unsolvable-Ruby-Problems-Array-map-on-an-Array-subclass-but-keep-the-subclass-">Map into an unknown Array subclass is an unsolvable problem in Ruby</a>, actually...)
 
 <h2> Up To Date? </h2>
 

@@ -10,7 +10,7 @@ meta:
 ---
 Some day I would love to put together a Rails Reading Club.  Like a book club, but for the Rails source.
 
-I love fun weird Ruby trivia, and the Rails code is <a href="http://codefol.io/posts/11-Deep-Rails-Understanding-HashWithIndifferentAccess-Understanding-the-Params-Hash">full of it</a>!
+I love fun weird Ruby trivia, and the Rails code is <a href="http://codefol.io/posts/Deep-Rails-Understanding-HashWithIndifferentAccess-Understanding-the-Params-Hash">full of it</a>!
 
 As Joel Spolsky said, <a href="http://www.joelonsoftware.com/articles/fog0000000053.html">reading code is like reading the Talmud</a>.  You should get together and pore over the lines and debate properly over the intention and the expression of it.
 

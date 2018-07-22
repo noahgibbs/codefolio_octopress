@@ -52,7 +52,7 @@ That's probably the kind of thing you're happy to ignore when you pick a slimmer
 
 ### Libraries
 
-Rails has a head start over everybody else in libraries.  Sinatra can <a href="http://codefol.io/posts/14--What-is-Rack-A-Primer">run Rack middleware</a> and Node.js has an extensive library accessible through NPM, but Rails has <a href="http://ruby-toolbox.com">an unparalleled selection of libraries that support it</a>.
+Rails has a head start over everybody else in libraries.  Sinatra can <a href="http://codefol.io/posts/What-is-Rack-A-Primer">run Rack middleware</a> and Node.js has an extensive library accessible through NPM, but Rails has <a href="http://ruby-toolbox.com">an unparalleled selection of libraries that support it</a>.
 
 Basically *everything* Ruby supports Rails.
 

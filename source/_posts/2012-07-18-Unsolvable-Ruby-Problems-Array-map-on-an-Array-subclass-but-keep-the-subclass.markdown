@@ -28,7 +28,7 @@ This will work fine on an Array, but if you call my_array_sub_object.but_doubled
 
 You may think, "sure, no problem.  Just re-define #map on the subclass to return the subclass."  Ah, but then you don't get to choose whether to return the subclass or Array.  Plus, if the author of the subclass didn't do that you can't do it...  Or you have to monkeypatch.  This <i>is</i> Ruby.
 
-But if you don't know what subclass you might be passed, you have a problem.  <a href="http://codefol.io/posts/11-Deep-Rails-Understanding-HashWithIndifferentAccess-Understanding-the-Params-Hash">That happens sometimes, even in code like Rails</a>, and then the <a href="https://github.com/rails/rails/commit/f43e5d160bf9708ad50b58c8168e38579769e024">solutions aren't always pretty</a>.
+But if you don't know what subclass you might be passed, you have a problem.  <a href="http://codefol.io/posts/Deep-Rails-Understanding-HashWithIndifferentAccess-Understanding-the-Params-Hash">That happens sometimes, even in code like Rails</a>, and then the <a href="https://github.com/rails/rails/commit/f43e5d160bf9708ad50b58c8168e38579769e024">solutions aren't always pretty</a>.
 
 <h2>Make a New One</h2>
 
