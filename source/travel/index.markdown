@@ -51,10 +51,13 @@ The email list will send you a confirmation message. You'll need to accept it fr
 
 US Mailing address:
 
+<pre>
+Gibbs
 1321 Upland Dr.
 PMB: 11034 
 Houston, TX 77043
-US
+USA
+</pre>
 
 (PMB stands for "Personal Mail Box.")
 
